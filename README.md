@@ -1,6 +1,6 @@
 # Hola, soy Andres Alvarez 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=andres15alvarez.andres15alvarez)
-### I started to programming at 14 when i wanted to hack the computers of the laboratory of computation of my school (I didn't it 💔). The first language that I learned was Python (and i still loving it), I'm a snake charmer. In the last year, I started to research about Artifical Intelligence and I made it some cool stuff. Currently I'm studying Backend Development and Data Science. I love the projects that break paradigms and helps the society.
+### I started to program at 14 when i wanted to hack into the computers of the laboratory of computation of my school (I didn't 💔). My first language was Python (and still love it), I'm a snake charmer. In the last year, I started to learn about Artifical Intelligence and made some cool stuff with it. Currently I'm studying Backend Development and Data Science. I love the projects that break paradigms and help the society.
 
 - 🌱 I’m currently learning Flask, PostgreSQL, Node.js, Data Science and Artificial Intelligence
 - 👯 I’m looking to collaborate on an interesting project
