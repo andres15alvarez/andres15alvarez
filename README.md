@@ -4,9 +4,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andres15alvarez&theme=tokyonight) 
 
-- 🌱 I’m currently learning Flask, PostgreSQL, Node.js, Data Science and Artificial Intelligence
+- 🌱 I’m currently learning Solidity, Data Science, Artificial Intelligence and GraphQL
 - 👯 I’m looking to collaborate on an interesting project
-- 💬 Ask me about Python, Machine Learning, Deep Learning and... philosophy why not?
+- 💬 Ask me about Python, Machine Learning, Deep Learning, Blockchain and... philosophy why not?
 - ⚡ Fun fact: Python is older than Java 🐍
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres15alvarez&theme=tokyonight)
